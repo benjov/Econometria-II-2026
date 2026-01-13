@@ -1,6 +1,6 @@
-# Econometria-II-2025
-Curso de Econometría II, FE-UNAM para el semestre 2025-II
-Enero 2025
+# Econometria-II-2026
+Curso de Econometría II, FE-UNAM para el semestre 2026-II
+Enero 2026
 
 ## Temario
 
@@ -20,8 +20,8 @@ Enero 2025
 
 Otros recursos del curso: 
 
-* Videos de la clase: https://youtube.com/playlist?list=PLlCKfRj1U6SzByNTCZVSBOHsKrxgA4HuG&si=fAQ6VrzVmyJEdusT
-* Material de la clase (bibliografía, papers, notas, etc.): https://drive.google.com/drive/folders/1fvjnu-T4b2i4Bk0DDhFECnIQAdb9Tu9o?usp=sharing
-* Pizarras: https://gamesecon-my.sharepoint.com/:o:/p/boliva/EmvvO3KvETBMsf_vNDmVQToBWzCoT3RFUjITDJVo5nECbQ?e=MB6h10
+* Videos de la clase: https://www.youtube.com/playlist?list=PLlCKfRj1U6SyNRETe5vsZ34WCFJLKI7ok
+* Material de la clase (bibliografía, papers, notas, etc.): https://drive.google.com/drive/folders/1dhWf9xWX3Q_XpEDNyhI2rnwQ5ljbyQC5?usp=sharing
+* Pizarras: https://gamesecon-my.sharepoint.com/:o:/p/boliva/IgBt378GDAeAT6cDZM3PtrXfAT5J2K27ojPJfB4oeHetL7o?e=CsDqhb
 
 
